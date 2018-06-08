@@ -1,2 +1,3 @@
 # Redirect all 404s to the main site
+/test https://buttplug.io
 /* https://buttplug.io 404
