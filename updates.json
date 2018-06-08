@@ -1,0 +1,10 @@
+{
+  "buttplug-csharp": {
+     "version": "0.2.3",
+     "location": "https://github.com/metafetish/buttplug-csharp/releases/tag/0.2.3"
+  },
+  "syncydink": {
+     "version": "0.1.0",
+     "location": "https://github.com/metafetish/syncydink/releases"
+  }
+}
